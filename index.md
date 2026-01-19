@@ -1,5 +1,8 @@
 ---
-title: "Welcome to my blog"
+layout: home
+title: "t's blog"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Welcome to my blog! This site is under construction - not finished yet.
+
+Stay tuned for more content soon.
